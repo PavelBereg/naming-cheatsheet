@@ -10,6 +10,7 @@
 #comm3
 #comm4
 #comm5
+#comm6
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
