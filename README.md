@@ -5,8 +5,9 @@
 </p>
 
 # Naming cheatsheet
-#comm
+#comm1
 #comm2
+#comm3
 - [English language](#english-language)
 - [Naming convention](#naming-convention)
 - [S-I-D](#s-i-d)
@@ -374,4 +375,8 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
+<<<<<<< HEAD
 Change from branch2
+=======
+Change from branch1
+>>>>>>> branch1
